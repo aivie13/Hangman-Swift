@@ -3,7 +3,7 @@ This program simulates a library book management database.  It allows for simple
 
 # Execution
 You will need to run the program with Xcode\
-'''cmd + r''' to run
+`cmd + r` to run
 
 ![example of running code](execution.png)
 
